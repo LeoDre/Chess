@@ -18,7 +18,7 @@
 **Documentation**: The javadoc of this project is located at: ./Chess-Terminal/Javadoc  
   
 ## Chess-Android
-**Moving**: Select: tap on the piece you want to move  Un-select: tap on the selected piece  Move: tap on the destination
-**Save game**: A game can be saved after it is finished.
-**Undo**: undo the last move **(ONLY ONE LAST MOVE)**
+**Moving**: Select: tap on the piece you want to move  Un-select: tap on the selected piece  Move: tap on the destination  
+**Save game**: A game can be saved after it is finished  
+**Undo**: undo the last move **(ONLY ONE LAST MOVE)**  
 **AI**: give you a hint (random choose a legal move for you)
