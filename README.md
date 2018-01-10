@@ -20,7 +20,9 @@
 **Moving**: Select: tap on the piece you want to move  Un-select: tap on the selected piece  Move: tap on the destination  
 **Save game**: A game can be saved after it is finished  
 **Undo**: undo the last move **(ONLY ONE LAST MOVE)**  
-**AI**: give you a hint (random choose a legal move for you)
+**AI**: give you a hint (random choose a legal move for you)  
+**Playback**: Players can view the playback of a selected saved game. The playback is not a video playback. Players can click on next to view the next move they made.  
+**Serialization**: Saved games are serialized and saved to a file. Therefore, players don't need to worry about losing saved games when they restart they game.  
   
 ##  Contributions
 **Team Members**: Ran Sa, Jami Nicastro
